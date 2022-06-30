@@ -57,28 +57,28 @@ async def showid(client, message):
 @Client.on_message(filters.command('song'))
 async def song(bot, update):
     await update.reply_photo(
-            photo="https://telegra.ph/file/2a6b01414e4d8266e347e.jpg",
+            photo="https://telegra.ph/file/a1abf0660f28e2abbaed0.jpg",
             caption='അതിനു എനിക്ക് പാട്ട് പാടാൻ അറിയില്ല ബ്രോ..🥲'
     )
 
 @Client.on_message(filters.command('about'))
 async def about(bot, update):
     await update.reply_photo(
-            photo="https://telegra.ph/file/b076746aa3cafabb3d2a5.jpg",
-            caption='എനിക്ക് പ്രേത്യേകിച്ച് about,കഴിവ് ഒന്നും ഇല്ല..എന്റെ മുതലാളി ആണ് എന്റെ എല്ലാം (SHIVA SIR) Just മുതലാളി പറയും ഞാൻ അത് അനുസരിക്കും.. അനുസരിച്ചാൽ എനിക്ക് bun കിട്ടും.. 😌'
+            photo="https://telegra.ph/file/fbaa1f1a4aeb9baff3e27.jpg",
+            caption='എനിക്ക് പ്രേത്യേകിച്ച് about,കഴിവ് ഒന്നും ഇല്ല..എന്റെ മുതലാളി ആണ് എന്റെ എല്ലാം (𝕵𝖚𝖘𝖙𝖎𝖓) Just മുതലാളി പറയും ഞാൻ അത് അനുസരിക്കും.. അനുസരിച്ചാൽ എനിക്ക് bun കിട്ടും.. 😌'
     )
 
 @Client.on_message(filters.command('source'))
 async def source(bot, update):
     await update.reply_photo(
-            photo="https://telegra.ph/file/6d074de601bcb1028b51c.jpg",
+            photo="https://telegra.ph/file/5f9229a5677d349becf63.jpg",
             caption='എന്റെ കോഡ് പ്രൈവറ്റ് ആണ്... വേണേൽ എന്റെ മുതലാളിയോട് ചോദിക്ക്.. 😌'
     )
 
 @Client.on_message(filters.command('help'))
 async def help(bot, update):
     await update.reply_photo(
-            photo="https://telegra.ph/file/e175384031bd8081ffd2b.jpg",
+            photo="https://telegra.ph/file/1320ece6e69f4aaab73df.jpg",
             caption='നീ വന്നു എന്നെ ഹെല്പ് ചെയ് 😐 ഇവിടെ ഞാൻ ഒരു പണി എടുക്കുമ്പോളാണ് അവന്റെ ഒരു help പോടാ....😂'
     )
 
